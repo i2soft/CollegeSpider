@@ -28,7 +28,7 @@ public class Customer {
 	
 	public Customer(String cname, String email, long phone, String city, double balance) {
 
-		this.cname = cname;
+		//this.cname = cname;
 		this.email = email;
 		this.phone = phone;
 		this.city =   city;
